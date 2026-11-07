@@ -1,0 +1,8 @@
+Acme Coffee Shop - Info Sheet
+
+Opening hours: Monday to Friday 7am-6pm, Saturday 8am-4pm. Closed on Sunday.
+Location: 42 Maple Street, Springfield.
+Menu: Espresso $3, Latte $4.50, Cappuccino $4, Blueberry Muffin $3.25.
+Wi-Fi password: beans2024
+Owner: Maria Lopez. Founded in 2015.
+Policy: Free refill on drip coffee when you bring your own cup.
